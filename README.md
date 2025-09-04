@@ -6,24 +6,24 @@ Welcome to my portfolio! I'm a **Web Designer & Front-End Developer** passionate
 
 ## 🚀 About Me
 
-Hi, I'm [Your Name] – a creative problem-solver who loves transforming ideas into web experiences. I focus on crafting clean, accessible, and modern designs using the latest web technologies.
+Hi, I'm Centric – a creative problem-solver who loves transforming ideas into web experiences. I focus on crafting clean, accessible, and modern designs using the latest web technologies.
 
 ### 🛠️ Tech Stack
 
 - **Languages**: HTML5, CSS3, JavaScript (ES6+)
 - **Frameworks**: Tailwind CSS, Bootstrap, React (optional)
-- **Design Tools**: Figma, Adobe XD
+- **Design Tools**: Figma, Adobe Photoshop
 - **Version Control**: Git, GitHub
 
 ---
 
 ## 💼 Projects
 
-| Project | Description | Tech Stack | Live Demo |
+| Project | Description | Tech Stack |
 |--------|-------------|------------|-----------|
-| **Portfolio Website** | My personal portfolio site | HTML, CSS, JavaScript | [Live Demo](#) |
-| **Landing Page UI** | A responsive landing page for a product | Tailwind CSS, JS | [Live Demo](#) |
-| **Figma to Code** | Converted a Figma design to a real website | HTML, CSS, Flexbox/Grid | [Live Demo](#) |
+| **Portfolio Website** | My personal portfolio site | HTML, CSS, JavaScript | 
+| **Landing Page UI** | A responsive landing page for a product | Tailwind CSS, JS | 
+| **Figma to Code** | Converted a Figma design to a real website | HTML, CSS, Flexbox/Grid |
 
 > ✨ More projects coming soon!
 
@@ -33,9 +33,9 @@ Hi, I'm [Your Name] – a creative problem-solver who loves transforming ideas i
 
 Feel free to reach out if you have a project in mind or just want to say hello!
 
-- **Portfolio**: [your-portfolio-link.com](#)
-- **LinkedIn**: [linkedin.com/in/yourusername](#)
-- **Email**: your.email@example.com
+- **Portfolio**: centricdeveloper.github.io
+- **LinkedIn**: centricwebs
+- **Email**: centricwebsitecompany@gmail.com
 
 ---
 
