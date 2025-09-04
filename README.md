@@ -1,4 +1,4 @@
-# 🌐 Website Design Portfolio
+# 🌐 Centric Website Design Portfolio
 
 Welcome to my portfolio! I'm a **Web Designer & Front-End Developer** passionate about building responsive, user-friendly websites and interfaces that are both beautiful and functional.
 
