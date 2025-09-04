@@ -10,7 +10,12 @@ Hi, I'm Centric – a creative problem-solver who loves transforming ideas into 
 
 ### 🛠️ Tech Stack
 
-- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Languages**:
+  
+  ![](https://img.shields.io/badge/web2.0-HTML5-orange)
+  ![](https://img.shields.io/badge/web2.0-CSS3-RED)
+  ![](https://img.shields.io/badge/web2.0-BOOTSTRAP-blue)
+  
 - **Frameworks**: Tailwind CSS, Bootstrap, React (optional)
 - **Design Tools**: Figma, Adobe Photoshop
 - **Version Control**: Git, GitHub
@@ -20,7 +25,6 @@ Hi, I'm Centric – a creative problem-solver who loves transforming ideas into 
 ## 💼 Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|-----------|
 | **Portfolio Website** | My personal portfolio site | HTML, CSS, JavaScript | 
 | **Landing Page UI** | A responsive landing page for a product | Tailwind CSS, JS | 
 | **Figma to Code** | Converted a Figma design to a real website | HTML, CSS, Flexbox/Grid |
